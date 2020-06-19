@@ -17,3 +17,5 @@ if (media > 5){
 else{
     console.log('A Média é menor que 5')
 }
+
+
